@@ -17,7 +17,7 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">Proyecto Arco</h3>
+ <h3 align="center"><a href="https://proyecto-arco.netlify.app/" target="_blank">Proyecto Arco</a></h3>
       <p align="center">
         <a href="https://proyecto-arco.netlify.app/" target="_blank">
           <img src="https://github.com/Najwaelqortobi/Proyecto_Arco/blob/main/Arco-1.png?raw=true" width="300" alt="Proyecto Arco"/>
@@ -29,7 +29,7 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Mi Portafolio</h3>
+    <h3 align="center"><a href="https://najwadev.netlify.app/" target="_blank">Mi Portafolio</a></h3>
       <p align="center">
         <a href="https://najwadev.netlify.app/" target="_blank">
           <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Home.png?raw=true" width="300" alt="Mi Portafolio"/>
