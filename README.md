@@ -1,4 +1,4 @@
-# ¡Hola, soy Najwa! 👋
+# ¡Hola <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> soy Najwa! 
 ## 🌟 Acerca de mí
 Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasión por aprender y crecer en el campo de la tecnología. He adquirido habilidades en tecnologías como HTML, CSS, JavaScript y frameworks a través de formaciones profesionales y bootcamps.
 
