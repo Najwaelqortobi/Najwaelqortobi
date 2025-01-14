@@ -26,7 +26,8 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
         </a>
       </p>
       <p align="justify">
-        Este proyecto tiene como objetivo proporcionar al Club Orion Getxo una plataforma digital para mostrar sus actividades y mantener informados a los interesados sobre los programas disponibles. Este proyecto se ha realizado usando lenguajes de programación HTML5 y CSS3.
+        Este proyecto tiene como objetivo proporcionar al Club Orion Getxo una plataforma digital para mostrar sus actividades y mantener informados a los interesados sobre los programas disponibles. <br> <br>
+        Este proyecto se ha realizado usando lenguajes de programación HTML5 y CSS3.
       </p>
     </td>
     <td width="33%" valign="top">
