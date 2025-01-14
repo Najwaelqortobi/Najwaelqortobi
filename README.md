@@ -21,6 +21,7 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
       <p align="center">
         <a href="https://proyecto-arco.netlify.app/" target="_blank">
           <img src="https://github.com/Najwaelqortobi/Proyecto_Arco/blob/main/Arco-1.png?raw=true" width="300" alt="Proyecto Arco"/>
+          <br>  <br>
           <img src="https://github.com/Najwaelqortobi/Proyecto_Arco/blob/main/Arco-3.png?raw=true" width="300" alt="Proyecto Arco"/>
         </a>
       </p>
@@ -33,7 +34,9 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
       <p align="center">
         <a href="https://najwadev.netlify.app/" target="_blank">
           <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Home.png?raw=true" width="300" alt="Mi Portafolio"/>
+        <br>  <br>
            <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Sobre%20Mi.png?raw=true" width="300" alt="Mi Portafolio"/>
+       <br>  <br>
              <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Contacto.png?raw=true" width="300" alt="Mi Portafolio"/>
         </a>
       </p>
@@ -62,6 +65,7 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
   </a>
   <a href="mailto:najwaelqortobi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <br>  <br>
   </a>
 </p>
 
