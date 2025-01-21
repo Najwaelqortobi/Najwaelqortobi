@@ -52,7 +52,7 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
       <p align="center">
         <a href="#" target="_blank">
           <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/bisuteria1.png" width="300" alt="Tienda Bisutería"/><br>   
-          <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/bisuteria3.png" width="300"  height="465" alt="Tienda Bisutería" />
+          <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/bisuteria3.png" width="300"  height="462" alt="Tienda Bisutería" />
         </a>
       </p>
       <p align="justify">
