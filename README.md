@@ -48,7 +48,8 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Tienda Bisutería</h3>
+  <h3 align="center">        
+    <a href="https://bisuteria-unica.netlify.app/" target="_blank"> Tienda Bisutería </h3>
       <p align="center">
         <a href="https://bisuteria-unica.netlify.app/" target="_blank">
           <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/bisuteria1.png" width="300" alt="Tienda Bisutería"/><br>   
