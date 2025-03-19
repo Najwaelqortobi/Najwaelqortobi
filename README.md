@@ -1,4 +1,5 @@
-# ¡Hola <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> soy Najwa! 
+# ¡Hola <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> soy Najwa!
+
 ## 🌟 Acerca de mí
 Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasión por aprender y crecer en el campo de la tecnología. He adquirido habilidades en tecnologías como HTML, CSS, JavaScript y frameworks a través de formaciones profesionales y bootcamps.
 
@@ -12,52 +13,72 @@ Soy programadora Full Stack con un fuerte interés en el desarrollo web y pasió
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-
 </p>
 
 ## 📈 Proyectos Destacados
 <table>
   <tr>
     <td width="33%" valign="top">
- <h3 align="center"><a href="https://proyecto-arco.netlify.app/" target="_blank">Proyecto Arco</a></h3>
+      <h3 align="center"><a href="https://proyecto-arco.netlify.app/" target="_blank">Proyecto Arco</a></h3>
       <p align="center">
         <a href="https://proyecto-arco.netlify.app/" target="_blank">
           <img src="https://github.com/Najwaelqortobi/Proyecto_Arco/blob/main/Arco-1.png?raw=true" width="300" alt="Proyecto Arco"/>
-          <br>  <br>
+          <br><br>
           <img src="https://github.com/Najwaelqortobi/Proyecto_Arco/blob/main/Arco-3.png?raw=true" width="300" alt="Proyecto Arco"/>
         </a>
       </p>
       <p align="justify">
-        Este proyecto tiene como objetivo proporcionar al Club Orion Getxo una plataforma digital para mostrar sus actividades y mantener informados a los interesados sobre los programas disponibles. <br> <br>
+        Este proyecto tiene como objetivo proporcionar al Club Orion Getxo una plataforma digital para mostrar sus actividades y mantener informados a los interesados sobre los programas disponibles.
         Este proyecto se ha realizado usando lenguajes de programación HTML5 y CSS3.
       </p>
     </td>
     <td width="33%" valign="top">
-    <h3 align="center"><a href="https://najwadev.netlify.app/" target="_blank">Mi Portafolio</a></h3>
+      <h3 align="center"><a href="https://najwadev.netlify.app/" target="_blank">Mi Portafolio</a></h3>
       <p align="center">
         <a href="https://najwadev.netlify.app/" target="_blank">
           <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Home.png?raw=true" width="300" alt="Mi Portafolio"/>
-        <br>  <br>
-           <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Sobre%20Mi.png?raw=true" width="300" alt="Mi Portafolio"/>
-       <br>  <br>
-             <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Contacto.png?raw=true" width="300" alt="Mi Portafolio"/>
+          <br><br>
+          <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Sobre%20Mi.png?raw=true" width="300" alt="Mi Portafolio"/>
+          <br><br>
+          <img src="https://github.com/Najwaelqortobi/Portafolio/blob/main/Contacto.png?raw=true" width="300" alt="Mi Portafolio"/>
         </a>
       </p>
       <p align="justify">
-        Este portafolio web muestra mis habilidades y proyectos como desarrolladora web full-stack, con un diseño moderno y minimalista en tonos azules y grises. Ofrece una navegación intuitiva mediante un menú fijo superior, presentando secciones claramente definidas: Inicio, Sobre mí, Proyectos, Habilidades y Contacto. <br><br> Los proyectos se exhiben de manera visualmente atractiva con imágenes y descripciones, acompañados de una lista detallada de habilidades técnicas organizadas por categorías. <br><br> Para facilitar la comunicación, se incluye un formulario de contacto funcional, proporcionando una presentación completa y profesional de mi experiencia y capacidades en desarrollo web. El proyecto está desarrollado utilizando tecnologías web fundamentales como CSS3, HTML5 y JavaScript, demostrando dominio en el desarrollo frontend.
+        Este portafolio web muestra mis habilidades y proyectos como desarrolladora web full-stack, con un diseño moderno y minimalista en tonos azules y grises. Ofrece una navegación intuitiva mediante un menú fijo superior, presentando secciones claramente definidas: Inicio, Sobre mí, Proyectos, Habilidades y Contacto.
+        Los proyectos se exhiben de manera visualmente atractiva con imágenes y descripciones, acompañados de una lista detallada de habilidades técnicas organizadas por categorías.
+        Para facilitar la comunicación, se incluye un formulario de contacto funcional, proporcionando una presentación completa y profesional de mi experiencia y capacidades en desarrollo web. El proyecto está desarrollado utilizando tecnologías web fundamentales como CSS3, HTML5 y JavaScript, demostrando dominio en el desarrollo frontend.
       </p>
     </td>
     <td width="33%" valign="top">
-  <h3 align="center">        
-    <a href="https://bisuteria-unica.netlify.app/" target="_blank"> Tienda Bisutería </h3>
+      <h3 align="center"><a href="https://bisuteria-unica.netlify.app/" target="_blank">Tienda Bisutería</a></h3>
       <p align="center">
         <a href="https://bisuteria-unica.netlify.app/" target="_blank">
-          <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/bisuteria1.png" width="300" alt="Tienda Bisutería"/><br>   
+          <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/bisuteria1.png" width="300" alt="Tienda Bisutería"/><br>
           <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/bisuteria3.png" width="300" alt="Tienda Bisutería" />
         </a>
       </p>
       <p align="justify">
-        Este proyecto es una aplicación web para una tienda de bisutería que ofrece una experiencia de compra personalizada y multilingüe, diseñada para mostrar y vender una variedad de accesorios. La plataforma presenta una página de inicio con la sección "Quiénes somos", una tienda online ("Store") con artículos disponibles para compra, sistema de pedidos y autenticación de usuarios. <br><br>Destaca su funcionalidad multilingüe, con soporte para español, euskera, inglés y francés, permitiendo a los clientes explorar productos y gestionar sus compras de manera intuitiva. <br><br> Desarrollado utilizando tecnologías web fundamentales como CSS3, HTML5 y JavaScript, el proyecto demuestra habilidades en desarrollo frontend, diseño responsive e integración de sistemas de comercio electrónico.
+        Este proyecto es una aplicación web para una tienda de bisutería que ofrece una experiencia de compra personalizada y multilingüe, diseñada para mostrar y vender una variedad de accesorios. La plataforma presenta una página de inicio con la sección "Quiénes somos", una tienda online ("Store") con artículos disponibles para compra, sistema de pedidos y autenticación de usuarios.
+        Destaca su funcionalidad multilingüe, con soporte para español, euskera, inglés y francés, permitiendo a los clientes explorar productos y gestionar sus compras de manera intuitiva. Desarrollado utilizando tecnologías web fundamentales como CSS3, HTML5 y JavaScript, el proyecto demuestra habilidades en desarrollo frontend, diseño responsive e integración de sistemas de comercio electrónico.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="#" style="color: #0366d6;">Marvel Events</a></h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/HomeTimeLine.png" width="300" alt="Home"/>
+          <br><br>
+          <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/TimeLine.png" width="300" alt="Comics"/>
+          <br><br>
+          <img src="https://github.com/Najwaelqortobi/Imagenes/blob/main/ComicTimeLine.png" width="300" alt="Comics"/>
+        </a>
+      </p>
+      <p align="justify">
+        Este proyecto es una página web interactiva sobre el universo Marvel que ofrece una experiencia dinámica y educativa. Presenta un listado de eventos destacados con un menú desplegable para seleccionar eventos específicos, mostrando cómics relacionados.
+        Además, incluye acceso a la wiki de cada cómic para obtener información detallada y un quiz interactivo que evalúa el conocimiento de los usuarios sobre Marvel, proporcionando un puntaje final.
+        El proyecto fue desarrollado utilizando tecnologías web modernas como HTML, CSS y JavaScript, implementadas con Vue CLI.
       </p>
     </td>
   </tr>
